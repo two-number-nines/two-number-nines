@@ -1,3 +1,5 @@
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/drop-table-cascade?cardType=github&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ## 🔨 Languages & Frameworks & Skills ⭐️:
 
 ### Web Design & Development 💻:
